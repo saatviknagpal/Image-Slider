@@ -38,10 +38,10 @@ export default function ImageSlider() {
           );
         })}
         <button id="leftBtn" onClick={leftBtn}>
-          <i class="fas fa-chevron-left"></i>
+          <i className="fas fa-chevron-left"></i>
         </button>
         <button id="rightBtn" onClick={rightBtn}>
-          <i class="fas fa-chevron-right"></i>
+          <i className="fas fa-chevron-right"></i>
         </button>
       </div>
     </div>
