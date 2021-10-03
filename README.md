@@ -1,1 +1,1 @@
-Simple ImageSlider/Carousel created using ReactJS
+Simple ImageSlider/Carousel created using ReactJS.
